@@ -1,6 +1,7 @@
 # A Minecraft Server 
 A private server for friends only
 
+Activate the [Codespace](https://turbo-space-fortnight-pjgp5w6j4jj62xp9.github.dev/)
 [Panel](https://turbo-space-fortnight-pjgp5w6j4jj62xp9-8443.app.github.dev/)
 
 ## TO CONNECT
